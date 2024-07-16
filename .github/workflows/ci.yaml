@@ -1,4 +1,4 @@
-name: ci-golang-workflow
+name: ci-golang-workflow2
 on: 
   pull_request:
     branches:
